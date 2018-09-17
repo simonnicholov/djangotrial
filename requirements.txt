@@ -2,3 +2,4 @@ Django==2.1
 Pillow==5.2.0
 pytz==2018.5
 virtualenv==16.0.0
+test=1.0.0
